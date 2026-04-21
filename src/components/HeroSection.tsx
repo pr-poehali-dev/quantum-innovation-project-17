@@ -80,15 +80,13 @@ export default function HeroSection() {
                 </p>
                 <div className="flex flex-col gap-4 pt-2 sm:flex-row">
                   <a
-                    href="https://t.me/"
-                    target="_blank"
-                    rel="noopener noreferrer"
+                    href="tel:+79250151591"
                     className="inline-flex items-center justify-center rounded-none border border-white px-8 py-3 text-sm font-light tracking-widest text-white uppercase transition-all hover:bg-white hover:text-black"
                   >
                     Записаться на сеанс
                   </a>
                   <a
-                    href="tel:+7"
+                    href="tel:+79250151591"
                     className="inline-flex items-center justify-center rounded-none border border-white/40 px-8 py-3 text-sm font-light tracking-widest text-white/80 uppercase transition-all hover:border-white hover:text-white"
                   >
                     Позвонить
