@@ -55,8 +55,8 @@ export default function HeroSection() {
             >
               <div className="relative h-48 w-48 overflow-hidden rounded-full border-4 border-white shadow-2xl md:h-64 md:w-64">
                 <img
-                  src="https://cdn.poehali.dev/projects/ef31fcf0-0985-4e02-9041-9600680aed05/files/aa30b3f3-b477-480e-a6fb-e2cb63eefa55.jpg"
-                  alt="Мастер лечебного массажа"
+                  src="https://cdn.poehali.dev/projects/ef31fcf0-0985-4e02-9041-9600680aed05/bucket/1bb6e843-d2d4-42ac-961a-30ad77addf4b.jpg"
+                  alt="Софья — мастер лечебного массажа"
                   className="h-full w-full object-cover"
                 />
               </div>
@@ -70,10 +70,10 @@ export default function HeroSection() {
             >
               <div className="space-y-4">
                 <p className="text-3xl font-light text-white md:text-4xl lg:text-5xl">
-                  Лечебный массаж
+                  Софья
                 </p>
                 <p className="text-xl font-light text-white/80 md:text-2xl">
-                  Профессиональный терапевтический массаж
+                  Мастер лечебного массажа
                 </p>
                 <p className="text-base font-light text-white/60 md:text-lg max-w-md">
                   Избавлю от боли в спине, снятие напряжения и восстановление тела. Более 10 лет практики.
