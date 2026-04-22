@@ -76,7 +76,7 @@ export default function HeroSection() {
                   Мастер лечебного массажа
                 </p>
                 <p className="text-base font-light text-white/60 md:text-lg max-w-md">
-                  Избавлю от боли в спине, снятие напряжения и восстановление тела. Более 10 лет практики.
+                  Избавлю от боли в спине, снятие напряжения и восстановление тела.
                 </p>
                 <div className="flex flex-col gap-4 pt-2 sm:flex-row">
                   <a
