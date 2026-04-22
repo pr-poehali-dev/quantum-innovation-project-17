@@ -57,7 +57,7 @@ export default function HeroSection() {
                 <img
                   src="https://cdn.poehali.dev/projects/ef31fcf0-0985-4e02-9041-9600680aed05/bucket/1bb6e843-d2d4-42ac-961a-30ad77addf4b.jpg"
                   alt="Софья — мастер лечебного массажа"
-                  className="h-full w-full object-cover"
+                  className="h-full w-full object-cover object-top"
                 />
               </div>
             </div>
